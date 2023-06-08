@@ -51,7 +51,12 @@ export default function Home() {
         {/* Copyright */}
         <div className="text-sm leading-relaxed text-gray-200">
           Feito com 💜 no NLW da{' '}
-          <a href="#" className="underline hover:text-gray-100">
+          <a
+            href="#"
+            target="_blank"
+            rel="noreferrer"
+            className="underline hover:text-gray-100"
+          >
             Rocketseat
           </a>
         </div>
